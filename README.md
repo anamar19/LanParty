@@ -1,4 +1,4 @@
-# Project PA
+# LanParty Project
 ## Made by Ana-Maria Brinzea
 ### Data Structures:
 1. struct Player:
